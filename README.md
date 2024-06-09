@@ -1,3 +1,4 @@
+Hi There
 <div align="center">
   <img alt="Logo" src="./src/assets/img/icon.png" width="100" />
 </div>
